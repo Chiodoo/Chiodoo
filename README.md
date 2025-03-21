@@ -1,4 +1,4 @@
 #Hi, I'm Chiodo 👨🏻‍💻
 
-📚 Computer Engineering Student
-</> Love coding
+📚 Computer Engineering Student<br/>
+</> Love coding<br/>
