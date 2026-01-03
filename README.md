@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chidoo👨🏻‍💻</h1>
+<h1 align="center">Hi, I'm Chiodo👨🏻‍💻</h1>
 <h3 align="center">📚Computer Engineering Student, Cybersecurity passionate!</h3>
 
 <p align="left">
