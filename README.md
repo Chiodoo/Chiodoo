@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chiodo👨🏻‍💻</h1>
-<h3 align="center">📚Computer Engineering Student, Cybersecurity passionate!</h3>
+<h3 align="center">📚M.Sc. Cybersecurity student, Tux enthusiast <3 </h3>
 
 <p align="left">
 </p>
